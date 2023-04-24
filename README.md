@@ -1,5 +1,5 @@
 # GenVolt
-Electricity Database with Data generation scripts using Databricks Labs Data Generator[https://databrickslabs.github.io/dbldatagen/public_docs/index.html]
+Electricity Database with Data generation scripts using Databricks Labs Data Generator[Link](https://databrickslabs.github.io/dbldatagen/public_docs/index.html)
 
 ## Purpose
 These scripts creates tables realted to Electricity consuming and billing. Data generated is synthetic. 
